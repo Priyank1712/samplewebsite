@@ -356,6 +356,7 @@ p a{
 	line-height: 44px;
 	text-align: center;
 	color: #ffffff;
+	clear: both;
 }
 
 .hero h2{
